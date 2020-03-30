@@ -1,0 +1,18 @@
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<title>上传</title>
+</head>
+
+<body>
+
+<table>
+	<div>
+		<form action="upload" method="post" enctype="multipart/form-data">
+			<input name="file" type="file"></input>
+			<input type="submit"></input>
+		</form>
+	<div>
+</tabble>
+</body>
+</html>
